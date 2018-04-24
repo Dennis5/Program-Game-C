@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\DELL\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\DELL\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\DELL\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\DELL\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\DELL\source\repos\Game\Game\obj\Debug\Game.pdb
+C:\Users\LeNoVo\Desktop\Изпит ООП\Game\Game\bin\Debug\Game.exe.config
+C:\Users\LeNoVo\Desktop\Изпит ООП\Game\Game\obj\Debug\Game.exe
+C:\Users\LeNoVo\Desktop\Изпит ООП\Game\Game\obj\Debug\Game.pdb
